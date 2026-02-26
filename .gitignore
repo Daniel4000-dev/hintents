@@ -8,7 +8,6 @@ bin/
 
 # --- OS/System Files ---
 .DS_Store
-.env
 .env.example
 .cursorrules
 Thumbs.db
@@ -58,3 +57,4 @@ commit_309*.next
 !package.json
 !package-lock.json
 !tsconfig*.json
+config.bat
